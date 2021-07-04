@@ -29,13 +29,13 @@ https://github.com/Juliocj7/UtilsCj7
 
 * `apt install pv`
 
-* `git clone https://github.com/Juliocj7/OfuskCj7`
+* `git clone https://github.com/Juliocj7/TrmxCj7`
 
-* `cd OfuskCj7`
+* `cd TrmxCj7`
 
-* `chmod 777 OfuskCj71`
+* `chmod 777 TrmxCj7`
 
-* `bash OfuskCj71`
+* `bash TrmxCj7`
 
 # --------------------
 
