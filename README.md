@@ -4,7 +4,7 @@
 ![Screenshot_20210704-125146_Termux](https://user-images.githubusercontent.com/81049859/124393139-1c84cd00-dcc7-11eb-8aef-83b66fd949bc.png)
 
 ## Guías : 
-
+![Screenshot_20210704-145051_Termux](https://user-images.githubusercontent.com/81049859/124396697-1ef02280-dcd9-11eb-9583-b5d2b51a69d3.png)
 
 ## Termux :
 ![Screenshot_20210704-125223_Termux](https://user-images.githubusercontent.com/81049859/124393151-28708f00-dcc7-11eb-894c-10b5c5fbeb4b.png)
