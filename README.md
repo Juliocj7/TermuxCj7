@@ -9,7 +9,7 @@
 ## Termux :
 ![Screenshot_20210704-125223_Termux](https://user-images.githubusercontent.com/81049859/124393151-28708f00-dcc7-11eb-894c-10b5c5fbeb4b.png)
 
-## OfuskCj7 :
+## TrmxCj7 :
 * Aprende el uso de Termux,
 * Aprende guías bastante útiles.
 * Instala fácilmente algunas herramientas.
@@ -30,8 +30,6 @@ https://github.com/Juliocj7/UtilsCj7
 * `pkg install -y git`
 
 * `gem install lolcat`
-
-* `apt install pv`
 
 * `git clone https://github.com/Juliocj7/TrmxCj7`
 
