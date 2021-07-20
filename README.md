@@ -1,13 +1,10 @@
 <h1 align="center"><a href="https://github.com/Juliocj7"><img title="Author" src="https://img.shields.io/badge/Author-⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣-svg?style=for-the-badge&logo=github"></a></h1>
 
 ## Menú Principal :
-![Screenshot_20210704-125146_Termux](https://user-images.githubusercontent.com/81049859/124393139-1c84cd00-dcc7-11eb-8aef-83b66fd949bc.png)
 
 ## Guías : 
-![Screenshot_20210704-145051_Termux](https://user-images.githubusercontent.com/81049859/124396697-1ef02280-dcd9-11eb-9583-b5d2b51a69d3.png)
 
 ## Termux :
-![Screenshot_20210704-125223_Termux](https://user-images.githubusercontent.com/81049859/124393151-28708f00-dcc7-11eb-894c-10b5c5fbeb4b.png)
 
 ## TrmxCj7 :
 * Aprende el uso de Termux,
@@ -40,3 +37,4 @@ https://github.com/Juliocj7/UtilsCj7
 > WhatsApp: +59179424937
 
 # --------------------
+`Porfavor informar cualquier error`
