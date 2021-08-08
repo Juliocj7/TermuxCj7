@@ -30,7 +30,7 @@ https://github.com/Juliocj7/UtilsCj7
 
 * `cd TrmxCj7`
 
-* `chmod 777 TrmxCj7`
+* `chmod +x *`
 
 * `bash TrmxCj7`
 
