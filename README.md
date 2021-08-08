@@ -13,6 +13,7 @@
 * Aprende el uso de Termux,
 * Aprende guías bastante útiles.
 * Instala fácilmente algunas herramientas.
+* Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ## Instalación :
