@@ -9,7 +9,7 @@
 
 
 ## Guías By JulioCj7 :
-![Screenshot_20210808-143028_Termux](https://user-images.githubusercontent.com/81049859/128642126-69062324-686c-43c8-a966-536027f11838.png)
+![Screenshot_20210808-183053_Termux](https://user-images.githubusercontent.com/81049859/128647574-00e292db-0980-400f-b65a-04dd9d9febba.png)
 
 
 ## TrmxCj7 :
