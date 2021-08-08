@@ -34,11 +34,7 @@ https://github.com/Juliocj7/UtilsCj7
 
 * `bash TrmxCj7`
 
-# --------------------
-
-> By: JulioCj7 :stuck_out_tongue_winking_eye:
-
-> WhatsApp: +59179424937
-
-# --------------------
-`Porfavor informar cualquier error`
+---
+###### `Pd: Porfavor informar cualquier error`
+###### `By: JulioCj7 +59179424937` :stuck_out_tongue_winking_eye:
+---
