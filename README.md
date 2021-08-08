@@ -1,13 +1,16 @@
 <h1 align="center"><a href="https://github.com/Juliocj7"><img title="Author" src="https://img.shields.io/badge/Author-⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣-svg?style=for-the-badge&logo=github"></a></h1>
 
 ## Menú Principal :
-![Screenshot_20210720-164743_Termux](https://user-images.githubusercontent.com/81049859/126393806-efbc6348-1f13-4827-a6c5-1c37781750c0.png)
+![Screenshot_20210808-143002_Termux](https://user-images.githubusercontent.com/81049859/128642101-29df1678-e688-4acb-b521-dfaa07b4a6ab.png)
 
-## Guías : 
-![Screenshot_20210720-165128_Termux](https://user-images.githubusercontent.com/81049859/126393846-4e2b5f53-f245-4d43-9218-86c7d6941efa.png)
 
-## Termux :
-![Screenshot_20210720-165040_Termux](https://user-images.githubusercontent.com/81049859/126393882-2e8cf704-9336-4187-8f0a-207aca12b0cf.png)
+## Termux : 
+![Screenshot_20210808-143013_Termux](https://user-images.githubusercontent.com/81049859/128642122-4ba29659-2850-468a-bd24-0243065fee71.png)
+
+
+## Guías By JulioCj7 :
+![Screenshot_20210808-143028_Termux](https://user-images.githubusercontent.com/81049859/128642126-69062324-686c-43c8-a966-536027f11838.png)
+
 
 ## TrmxCj7 :
 * Aprende el uso de Termux,
