@@ -12,7 +12,7 @@
 ![Screenshot_20210808-183053_Termux](https://user-images.githubusercontent.com/81049859/128647574-00e292db-0980-400f-b65a-04dd9d9febba.png)
 
 
-## TrmxCj7 :
+## TermuxCj7 :
 * Aprende el uso de Termux,
 * Aprende guías bastante útiles.
 * Instala fácilmente algunas herramientas.
@@ -29,13 +29,13 @@ https://github.com/Juliocj7/UtilsCj7
 
 * `apt update && apt upgrade -y`
 
-* `git clone https://github.com/Juliocj7/TrmxCj7`
+* `git clone https://github.com/Juliocj7/TermuxCj7`
 
-* `cd TrmxCj7`
+* `cd TermuxCj7`
 
 * `chmod +x *`
 
-* `bash TrmxCj7`
+* `bash TermuxCj7`
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
