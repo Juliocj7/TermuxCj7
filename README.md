@@ -35,7 +35,7 @@ https://github.com/Juliocj7/UtilsCj7
 
 * `chmod +x *`
 
-* `bash TermuxCj7`
+* `./TermuxCj7`
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
