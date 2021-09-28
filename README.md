@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://github.com/Juliocj7"><img title="Author" src="https://img.shields.io/badge/Author-𖤐 𝙹𝚞𝚕𝚒𝚘 𝙲𝚓7 𖤐-svg?style=flat&color=000000&logo=github"></a></h1>
 
-<p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="550" height="120"/> </p>
+<p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="110"/> </p>
 
 
 <details>
