@@ -24,15 +24,18 @@
 
 
 ## Menú Principal :
-![Screenshot_20210808-143002_Termux](https://user-images.githubusercontent.com/81049859/128642101-29df1678-e688-4acb-b521-dfaa07b4a6ab.png)
+![Screenshot_20220523-210728_Termux](https://user-images.githubusercontent.com/81049859/169928860-7fc24529-22b1-4523-bfa0-10fb7f6752ac.png)
+
 
 
 ## Termux : 
-![Screenshot_20210808-143013_Termux](https://user-images.githubusercontent.com/81049859/128642122-4ba29659-2850-468a-bd24-0243065fee71.png)
+![Screenshot_20220523-210739_Termux](https://user-images.githubusercontent.com/81049859/169928873-fad36156-0e51-4a6d-9b71-6b1acfd04ec3.png)
+
 
 
 ## Guías By JulioCj7 :
-![Screenshot_20210808-183053_Termux](https://user-images.githubusercontent.com/81049859/128647574-00e292db-0980-400f-b65a-04dd9d9febba.png)
+![Screenshot_20220523-210809_Termux](https://user-images.githubusercontent.com/81049859/169928882-7607549f-3d6a-480b-be8c-1fdfaa0c38cb.png)
+
 
 
 ## TermuxCj7 :
