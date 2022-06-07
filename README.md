@@ -13,7 +13,6 @@
 
 <p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="110"/> </p>
 
-
 <details>
 <summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ </summary>
 <br>
@@ -26,17 +25,11 @@
 ## Menú Principal :
 ![Screenshot_20220523-210728_Termux](https://user-images.githubusercontent.com/81049859/169928860-7fc24529-22b1-4523-bfa0-10fb7f6752ac.png)
 
-
-
 ## Termux : 
 ![Screenshot_20220523-210739_Termux](https://user-images.githubusercontent.com/81049859/169928873-fad36156-0e51-4a6d-9b71-6b1acfd04ec3.png)
 
-
-
 ## Guías By JulioCj7 :
 ![Screenshot_20220523-210809_Termux](https://user-images.githubusercontent.com/81049859/169928882-7607549f-3d6a-480b-be8c-1fdfaa0c38cb.png)
-
-
 
 ## TermuxCj7 :
 * Aprende el uso de Termux,
@@ -53,8 +46,9 @@
 https://github.com/Juliocj7/UtilsCj7
 ~~~
 
-* `apt update && apt upgrade -y`
-
+```bash
+  yes|pkg update && pkg upgrade
+```
 * `git clone https://github.com/Juliocj7/TermuxCj7`
 
 * `cd TermuxCj7`
