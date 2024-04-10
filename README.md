@@ -23,13 +23,13 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20221227-134931_Termux](https://user-images.githubusercontent.com/81049859/209704007-5f13ae54-8d01-49b3-a6b7-fec0b0099615.png)
+![1000328338](https://github.com/Juliocj7/TermuxCj7/assets/81049859/217b1a01-2dbf-4a15-a221-954cf6976241)
 
 ## Termux : 
-![Screenshot_20221227-134941_Termux](https://user-images.githubusercontent.com/81049859/209704029-6ce0134f-8bc8-48a6-89e1-57e634a2266f.png)
+![1000328339](https://github.com/Juliocj7/TermuxCj7/assets/81049859/befa618d-42f3-4f62-8404-89ab4085dc80)
 
 ## Guías By JulioCj7 :
-![Screenshot_20221227-134956_Termux](https://user-images.githubusercontent.com/81049859/209704043-d5db2195-77cf-4878-83bb-d291c7c90f3a.png)
+![1000328340](https://github.com/Juliocj7/TermuxCj7/assets/81049859/8ba4ad71-708f-4405-abc3-8af02a3fb508)
 
 ## TermuxCj7 :
 * Aprende el uso de Termux,
