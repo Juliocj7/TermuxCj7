@@ -52,9 +52,8 @@ ______________________________________________________
 ![1000328340](https://github.com/Juliocj7/TermuxCj7/assets/81049859/8ba4ad71-708f-4405-abc3-8af02a3fb508)
 
 ## TermuxCj7 :
-* Aprende el uso de Termux,
-* Aprende guías bastante útiles.
-* Instala fácilmente algunas herramientas.
+* Guía super completa del uso de Termux (+bonus: guías bastante útiles).
+* Fácil instalación de algunas herramientas.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
