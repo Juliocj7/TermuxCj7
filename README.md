@@ -47,7 +47,7 @@
 ## Termux : 
 ![1000328339](https://github.com/Juliocj7/TermuxCj7/assets/81049859/befa618d-42f3-4f62-8404-89ab4085dc80)
 
-## Guías By JulioCj7 :
+## Guías by JulioCj7 :
 ![1000328340](https://github.com/Juliocj7/TermuxCj7/assets/81049859/8ba4ad71-708f-4405-abc3-8af02a3fb508)
 
 ## TermuxCj7 :
